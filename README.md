@@ -28,4 +28,4 @@
 - **SharedPreferences:** Для сохранения настроек, таких как "показать всплывающее окно".
 - **FileProvider:** Для безопасного доступа к файлам в Android.
 
-- ![laba_5-ezgif com-speed](https://github.com/user-attachments/assets/82203ba5-d952-4de2-84ae-602009258988)
+
